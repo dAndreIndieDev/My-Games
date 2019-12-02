@@ -1,2 +1,2 @@
 # My-Games
-Games I will make or have made
+This is the wiki and bug tracking for my games
