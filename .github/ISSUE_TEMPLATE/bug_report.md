@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **The product**
-What game, program or app that has a bug.
+What game, program, website or app I made that has a bug.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
